@@ -6,6 +6,8 @@ Built for the **Smart MCQ Solver Challenge**, where submissions are evaluated us
 
 Try it out on [Hugging Face Spaces](https://huggingface.co/spaces/dhruvbansalup/dl-genai-project-26-t2-smart-mcq-solver).
 
+📄 [View Project Report](./reports/Project%20Report.pdf)
+
 ---
 
 ## 📌 Overview
